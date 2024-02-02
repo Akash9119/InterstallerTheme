@@ -54,11 +54,9 @@
 
 				<hr>
 				<ul class="social-list list-inline py-3 mx-auto">
-					<li class="list-inline-item"><a href="#"><i class="fab fa-twitter fa-fw"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-github-alt fa-fw"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-stack-overflow fa-fw"></i></a></li>
-					<li class="list-inline-item"><a href="#"><i class="fab fa-codepen fa-fw"></i></a></li>
+					<li class="list-inline-item"><a href="https://twitter.com/AkashjVasava"><i class="fab fa-twitter fa-fw"></i></a></li>
+					<li class="list-inline-item"><a href="https://www.linkedin.com/in/akash-vasava/"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+					<li class="list-inline-item"><a href="https://github.com/Akash9119"><i class="fab fa-github-alt fa-fw"></i></a></li>
 				</ul>
 
 			</div>
